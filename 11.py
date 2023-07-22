@@ -5,4 +5,5 @@ def  kuku(ls1,ls2):
             if i == j:
                 flag = 1
                 return flag
+
 print (kuku([1,2,3,4,5,6,7],[2,3,4,6,7,8,6,9,5]))
